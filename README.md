@@ -2,10 +2,6 @@
 # A Hyper-Parameter Optimization Toolbox
 <br>
 
-_Acknowledgements: This work is supported by the [Helmholtz Association Initiative and Networking](https://www.helmholtz.de/en/about_us/the_association/initiating_and_networking/) Fund under project number ZT-I-0003._
-<br>
-<br>
-
 ## What is Hyppopy?
 
 Hyppopy is a python toolbox for blackbox optimization. It's purpose is to offer a unified and easy to use interface to a collection of solver libraries. Currently provided solvers are:
@@ -375,3 +371,6 @@ solver.run()
 
 You can also change the port and the server name in start_viewer(port=8097, server="http://localhost")
 
+## Acknowledgements: 
+_This work is supported by the [Helmholtz Association Initiative and Networking](https://www.helmholtz.de/en/about_us/the_association/initiating_and_networking/) Fund under project number ZT-I-0003._
+<br>
