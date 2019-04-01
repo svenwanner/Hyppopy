@@ -12,8 +12,8 @@ Hyppopy is a python toolbox for blackbox optimization. It's purpose is to offer 
 * [BayesianOptimization](https://github.com/fmfn/BayesianOptimization)
 * Randomsearch Solver
 * Gridsearch Solver
-
 <br>
+
 **Acknowledgements:**
 
 _This work is supported by the [Helmholtz Association Initiative and Networking](https://www.helmholtz.de/en/about_us/the_association/initiating_and_networking/) Fund under project number ZT-I-0003._
